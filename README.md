@@ -1,7 +1,6 @@
 # British Airways Review Dashboard
 
-## Project Overview
-This interactive Tableau dashboard visualizes passenger reviews of British Airways, focusing on various in-flight experience categories. It enables quick insights into review patterns by aircraft, seat type, traveler demographics, and geography and to explore and present **average customer review scores** across multiple service categories and breakdowns, helping identify what aspects of British Airways’ service stand out or need improvement.
+An interactive Tableau dashboard analyzing British Airways passenger review ratings across service categories, aircraft types, traveler segments, and geography.
 
 ## Dashboard Preview
 <img width="1580" height="984" alt="dashboard-preview" src="https://github.com/user-attachments/assets/dd95d824-15af-4b33-95c8-b239d8fd4fe2" />
@@ -30,13 +29,6 @@ This interactive Tableau dashboard visualizes passenger reviews of British Airwa
 - Count of Reviews per aircraft, traveler type, and seat type
 - Butterfly charts built using dual-axis method
 
-## Key Insights / Observations
-- Premium economy and First Class travelers report higher satisfaction with Seat Comfort.
-- Certain aircraft types consistently score lower in Overall Ratings.
-- Traveler type significantly influences perceptions of Ground Service and Food quality.
-- Not all countries follow the same satisfaction trends — some regions are outliers with either high or low scores.
-- Ratings dipped slightly during specific months, potentially indicating service inconsistency or external factors.
-
 ## Future Enhancements
 - Add comparison with competing airlines
 - Include sentiment analysis from text reviews (if available)
@@ -44,6 +36,5 @@ This interactive Tableau dashboard visualizes passenger reviews of British Airwa
 - Add star rating conversion logic for categorical visual representation
 
 ## Notes
-- Most metrics displayed are **averages** — noted clearly using `*` and legend text in the dashboard.
-- This project is built using publicly available data and serves as part of a personal portfolio focused on Tableau-based visual storytelling.
+Most metrics displayed are **averages** — noted clearly using `*` and legend text in the dashboard.
 
